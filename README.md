@@ -29,5 +29,6 @@ Naval Postgraduate School
 [Git Repo](https://github.com/mdsmith44/py_qrcode_gen)
 
 Designed and developed a dynamic streamlit dashboard to enable NPS community to build custom QR Codes.
+<img src='images/images/streamlit_QR_screenshot.jpg' height=200/>
 
 ![screenshot](images/streamlit_QR_screenshot.jpg)
