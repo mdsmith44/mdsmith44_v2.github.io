@@ -12,9 +12,8 @@
 - **LinkedIn:** [https://www.linkedin.com/in/matt-smith-ab569067/](https://www.linkedin.com/in/matt-smith-ab569067/)
 
 ## Education
-- PhD, Management Science and Engineering | Stanford University (_2017_)
-- MS, Electrical Engineering | University of Southern California (_2010_)
-- BS, Physics | MIT (_2006_)
+- MS, Operations Research | Naval Postgraduate School (_2026_)
+- BS, Awesomeness | School (_year_)
 
 ## Work Experience
 **Assistant Professor**           
@@ -29,7 +28,15 @@ Naval Postgraduate School
 [Git Repo](https://github.com/mdsmith44/py_qrcode_gen)
 
 Designed and developed a dynamic streamlit dashboard to enable NPS community to build custom QR Codes.
-<img src='images/Smith_1B.jpg'/>
+<!--
+This is a multi-line Markdown comment.
+Note the two common methods for inserting images:
+  Use HTML: <img src='images/streamlit_QR_screenshot.jpg' alt='dashboard' height=200/>
+  Use Markdown: ![dashboard](images/streamlit_QR_screenshot.jpg)
+
+I like the <img> method since it lets you easily control the height and other attributes.
+-->
+
 <img src='images/streamlit_QR_screenshot.jpg' height=200/>
 
 ![screenshot](images/streamlit_QR_screenshot.jpg)
